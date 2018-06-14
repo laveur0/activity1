@@ -1,4 +1,4 @@
 // Somme de deux entier
-public int add(int a, int b){
+public Double add(Double a, Double b){
 	return a + b;
 }
