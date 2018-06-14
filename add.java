@@ -1,4 +1,4 @@
 // Somme de deux entier
-public void add(int a, int b){
-	int somme = a + b;
+public int add(int a, int b){
+	return a + b;
 }
